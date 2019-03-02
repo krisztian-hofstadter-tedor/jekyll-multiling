@@ -1,0 +1,4 @@
+- id: home
+  path: /
+- id: portfolio
+  path: /portfolio
