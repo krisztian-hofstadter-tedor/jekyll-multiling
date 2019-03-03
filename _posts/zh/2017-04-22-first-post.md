@@ -1,6 +1,6 @@
 ---
-title: 第一篇文章
-description: 这是“文章“列表里的第一篇文章。
+title: 第一篇文章／某专业领域
+description: 这是“文章“列表里的第一篇文章。虽然这些文章在网页模板里都被称作‘博文’，你不一定要规律地发表博文，而是可以利用这个位置编辑Portfolio，展示某领域的翻译实例，还可以加上几句评论。
 lang: zh
 categories: zh
 image: /files/images/china-street.jpg
@@ -8,9 +8,9 @@ image: /files/images/china-street.jpg
 
 我的翻译实例，堆叠。
 
-<div class="left">
+---
 
-<p>可以被践踏的道不是经久不衰的
+可以被践踏的道不是经久不衰的
 不变的道。 可以命名的名称不是经久不衰的
 不变的名字。
 <br><br>
@@ -26,11 +26,10 @@ image: /files/images/china-street.jpg
 在这两个方面，它实际上是一样的; 但作为发展
 它发生了，它收到不同的名字。 我们一起称呼它们
 谜。 最神秘的地方就是所有这一切的大门
-是微妙和美妙的。</p>
-</div>
+是微妙和美妙的。
 
-<div class="right">
-<p>
+---
+
 The Tao that can be trodden is not the enduring and
 unchanging Tao. The name that can be named is not the enduring and
 unchanging name.
@@ -48,5 +47,3 @@ Under these two aspects, it is really the same; but as development
 takes place, it receives the different names. Together we call them
 the Mystery. Where the Mystery is the deepest is the gate of all that
 is subtle and wonderful.
-</p>
-</div>
