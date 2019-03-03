@@ -5,6 +5,8 @@ lang: en
 image: /files/images/china-shanghai.jpg
 ---
 
+My translation examples, next to each other.
+
 <div class="left">
   <p>The Tao that can be trodden is not the enduring and
 unchanging Tao. The name that can be named is not the enduring and

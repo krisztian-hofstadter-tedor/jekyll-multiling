@@ -5,12 +5,13 @@ lang: en
 image: /files/images/china-lamp.jpg
 ---
 
-Lorem ipsum dolor sit amet, augue neglegentur ex sed, ne odio diam labitur vel. Quo te oratio maiestatis. Ne eum nisl dolor. Vel saepe nusquam ea, an atqui tation mel.
+What do people think about translation?
 
-Te atqui maluisset dissentiunt pri. Ut quo adhuc mazim commune, novum ornatus ea has. His solum ipsum partiendo an, sit esse epicuri eu. Nam dicant mollis eu, sea equidem periculis id. Ea esse idque mei. Modus idque vitae ut ius, usu at consul discere invenire, ex inimicus mnesarchum pro.
+![Alan Watts](../files/images/alan-watts.jpg)
 
-Labores definitiones sed in, error dolore adipisci usu in, sint sale viris ad vim. Meis porro ut pro, an usu quando fabellas oporteat. Eum magna delicata salutandi id, in modo prompta qui, mea ne quidam fabellas omittantur. No brute iudico malorum mel, et dicat affert eam.
+> That's a waste of time. If you really understand Zen... you can use any book. You could use the Bible. You could use Alice in Wonderland. You could use the dictionary, because... the sound of the rain needs no translation. ~ Alan Watts
 
-Mea agam nobis quando at, ex prompta detraxit per. Aeque urbanitas accommodare id has, choro menandri tacimates ei nec, sea quem duis tota id. Pri te ornatus delectus liberavisse, tollit altera sanctus per ad, in fugit primis per. Laoreet offendit invenire nec an, ea qui aperiri impedit qualisque. Ex saperet fuisset vulputate eam, nec cibo philosophia ei. Duo ubique scripta te, aperiri democritum eloquentiam vim an.
+<br>
 
-Vim et habeo primis theophrastus. Ex qui erant forensibus sententiae, in vix adipisci efficiendi. Soluta appetere fabellas an vel. Ad illud audiam erroribus nec.
+![Alan Watts](../files/images/ursula-k-le-guin.jpg)
+> Translation is entirely mysterious. Increasingly I have felt that the art of writing is itself translating, or more like translating than it is like anything else. What is the other text, the original? I have no answer. I suppose it is the source, the deep sea where ideas swim, and one catches them in nets of words and swings them shining into the boat… where in this metaphor they die and get canned and eaten in sandwiches. ~ Ursula Le Guin
