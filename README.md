@@ -1,11 +1,7 @@
-## todo:
-- test (fork and download upload) repo to test account; 
-- take notes; 
-
 # GitHub Pages Workshop
 Essex, 2h
 
-We will:
+The plan was to:
 
 1. make a **very basic website** on GitHub;
 2. use a **custom theme** to make a website;
@@ -13,6 +9,8 @@ We will:
 4. demonstrate **localhost development**;
 5. SWOT;
 6. use the README.md file as your log; 
+
+We will jump straight to nb 3. 
 
 ## 1. very basic website
 ### 1.1 Home page
@@ -129,21 +127,42 @@ This way you don't have all the options that come with the fork.
 <br>
 
 ## 3. multilingual theme
-We will look at Jekyll Basic theme the from [Wiredcraft](https://github.com/wiredcraft):
+We will look at Jekyll Basic theme the from [Wiredcraft](https://github.com/wiredcraft). 
+
+- visit [https://khofstadter.info/](https://khofstadter.info/)
+- find the link for the 'multilingual website workshop' workshop: [https://github.com/krisztian-hofstadter-tedor/jekyll-multiling](https://github.com/krisztian-hofstadter-tedor/jekyll-multiling)
+- download ZIP;
+- find the link for website version of this repository: [https://krisztian-hofstadter-tedor.github.io/jekyll-multiling/](https://krisztian-hofstadter-tedor.github.io/jekyll-multiling/)
+- create a GiHub account (verify email);
+- create a repo (no need for readme.md); 
+- unzip what you downloaded and delete _site folder; 
+- upload all folders and files to the newly created repo (hidden files are not needed);
+- while the site is created on your repo let's have a look at the site in my repo, the one that is built; 
+- when your files are uploaded, visit repo settings and turn repo into GitHub pages;
+- visit the url (probably not ready yet); 
+- copy/paste the url in your repos description for a shortcut; 
+- edit url in '_config.yml', change it to your website's url;
+- we might need to wait a bit (sometimes longer) for everything to be built;
+- if ready, lets' edit a few things. 
 
 
 ## 4. localhost dev.
 
+Briefly mention Atom, Ruby, etc. 
 <br>
 
 ## 5. SWOT
 ### S
+- fast; 
+- cheap;
+- easy to scale up; 
 
 ### W
+- might be a steeper learning curve; 
 
 ### O
-- understanding of the GitHub system; 
-- understanding of basic html and markdown syntax; 
+- gain understanding of the GitHub system; 
+- gain understanding of basic html and markdown syntax; 
 
 ### T
 - can be time consuming;
