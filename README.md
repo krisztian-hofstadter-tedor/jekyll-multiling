@@ -134,13 +134,13 @@ We will look at Jekyll Basic theme the from [Wiredcraft](https://github.com/wire
 - download ZIP version to computer; 
 - create a GiHub account (verify email);
 - create a repo (no need for readme.md); 
-- unzip what you downloaded and delete _site folder; 
+- unzip what you downloaded and delete 'site' folder; 
 - upload all folders and files to your newly created repo (hidden files are not needed);
 - while the site is created on your repo let's have a look at the site in my repo again, the one that is built; 
 - when your files are uploaded, visit repo settings and turn repo into GitHub pages;
 - visit the url (probably not ready yet - try kproxy.com); 
 - copy/paste the website's url in your repos description for a shortcut; 
-- edit url in '_config.yml', change it to your new website's url;
+- edit url in 'config.yml', change it to your new website's url;
 - we might need to wait a bit (sometimes longer) for everything to be built;
 - in the meantime, let's explore my site again, perahps with the localhost files; 
 - if ready, lets' edit a few things. 
