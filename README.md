@@ -129,7 +129,6 @@ This way you don't have all the options that come with the fork.
 ## 3. multilingual theme
 We will look at Jekyll Basic theme the from [Wiredcraft](https://github.com/wiredcraft).
 
-- wordpress and jekyll; 
 - find this repo;
 - find the link for website version of this repository: [https://krisztian-hofstadter-tedor.github.io/jekyll-multiling/](https://krisztian-hofstadter-tedor.github.io/jekyll-multiling/)
 - download ZIP version to computer;
