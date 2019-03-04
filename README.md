@@ -129,8 +129,7 @@ This way you don't have all the options that come with the fork.
 ## 3. multilingual theme
 We will look at Jekyll Basic theme the from [Wiredcraft](https://github.com/wiredcraft).
 
-- github, jekyll and wordpress; 
-- find this repo;
+- github, jekyll and wordpress;
 - find the link for website version of this repository: [https://krisztian-hofstadter-tedor.github.io/jekyll-multiling/](https://krisztian-hofstadter-tedor.github.io/jekyll-multiling/)
 - download ZIP version to computer;
 - create a GiHub account (verify email);
@@ -180,3 +179,5 @@ Briefly mention Atom, Ruby, etc.
 ## Resources
 ### Github
 * [Fork or Clone](https://stackoverflow.com/questions/6286571/are-git-forks-actually-git-clones)
+* Getting Sh*t Done with Jekyll: [Youtube](https://www.youtube.com/watch?v=No7dtPtbtcE)
+* Designing Fast Websites With Jekyll //JekyllConf 2016: [Youtube](https://www.youtube.com/watch?v=TteAQq25_Ns)
