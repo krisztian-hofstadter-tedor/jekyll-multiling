@@ -10,7 +10,7 @@ The plan was to:
 5. SWOT;
 6. use the README.md file as your log; 
 
-We will jump straight to nb 3. 
+We will jump straight to nb 3 and focus on creating a website with a multilingual theme. 
 
 ## 1. very basic website
 ### 1.1 Home page
@@ -129,20 +129,20 @@ This way you don't have all the options that come with the fork.
 ## 3. multilingual theme
 We will look at Jekyll Basic theme the from [Wiredcraft](https://github.com/wiredcraft). 
 
-- visit [https://khofstadter.info/](https://khofstadter.info/)
-- find the link for the 'multilingual website workshop' workshop: [https://github.com/krisztian-hofstadter-tedor/jekyll-multiling](https://github.com/krisztian-hofstadter-tedor/jekyll-multiling)
-- download ZIP;
+- find this repo; 
 - find the link for website version of this repository: [https://krisztian-hofstadter-tedor.github.io/jekyll-multiling/](https://krisztian-hofstadter-tedor.github.io/jekyll-multiling/)
+- download ZIP version to computer; 
 - create a GiHub account (verify email);
 - create a repo (no need for readme.md); 
 - unzip what you downloaded and delete _site folder; 
-- upload all folders and files to the newly created repo (hidden files are not needed);
-- while the site is created on your repo let's have a look at the site in my repo, the one that is built; 
+- upload all folders and files to your newly created repo (hidden files are not needed);
+- while the site is created on your repo let's have a look at the site in my repo again, the one that is built; 
 - when your files are uploaded, visit repo settings and turn repo into GitHub pages;
-- visit the url (probably not ready yet); 
-- copy/paste the url in your repos description for a shortcut; 
-- edit url in '_config.yml', change it to your website's url;
+- visit the url (probably not ready yet - try kproxy.com); 
+- copy/paste the website's url in your repos description for a shortcut; 
+- edit url in '_config.yml', change it to your new website's url;
 - we might need to wait a bit (sometimes longer) for everything to be built;
+- in the meantime, let's explore my site again, perahps with the localhost files; 
 - if ready, lets' edit a few things. 
 
 
