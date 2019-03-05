@@ -6,7 +6,7 @@
   
   <url>
     <loc>http://localhost:4000/xth-post/</loc>
-    <lastmod>2019-03-03T22:37:26+00:00</lastmod>
+    <lastmod>2019-03-05T20:26:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     
@@ -20,7 +20,7 @@
   
   <url>
     <loc>http://localhost:4000/third-post/</loc>
-    <lastmod>2019-03-03T22:37:26+00:00</lastmod>
+    <lastmod>2019-03-05T20:26:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     
@@ -34,7 +34,7 @@
   
   <url>
     <loc>http://localhost:4000/second-post/</loc>
-    <lastmod>2019-03-03T22:37:26+00:00</lastmod>
+    <lastmod>2019-03-05T20:26:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     
@@ -48,7 +48,7 @@
   
   <url>
     <loc>http://localhost:4000/first-post/</loc>
-    <lastmod>2019-03-03T22:37:26+00:00</lastmod>
+    <lastmod>2019-03-05T20:26:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     
@@ -64,22 +64,8 @@
   
   
   <url>
-    <loc>http://localhost:4000/example/</loc>
-    <lastmod>2019-03-03T22:37:26+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.3</priority>
-    
-    
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:4000/example/"/>
-    
-    <xhtml:link rel="alternate" hreflang="zh" href="http://localhost:4000/zh/example/"/>
-    
-    
-  </url>
-  
-  <url>
     <loc>http://localhost:4000/</loc>
-    <lastmod>2019-03-03T22:37:26+00:00</lastmod>
+    <lastmod>2019-03-05T20:26:42+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.3</priority>
     
